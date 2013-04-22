@@ -3,7 +3,7 @@
 
     <groupId>fi.iki.elonen</groupId>
     <artifactId>nanohttpd-project</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1-HUGOJOSEFSON</version>
     <packaging>pom</packaging>
 
     <name>NanoHTTPd-Project</name>
